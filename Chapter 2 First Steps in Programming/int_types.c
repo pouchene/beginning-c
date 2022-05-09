@@ -2,15 +2,14 @@
 
 #include <stdio.h>
 
-/* Different types can be used for integers. Each type uses more or less bytes of memory, thus allows for bigger or smaller values to be stored.
- *
+/**
  * char         1 byte
  * short        2 bytes
  * int          4 bytes
  * long         4 bytes
  * long long    8 bytes
  * 
-*/
+ */
 
 // The unsigned version of each integer type is an "absolute value" with double magnitude (the sign bit is freed).
 

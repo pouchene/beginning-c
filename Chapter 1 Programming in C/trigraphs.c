@@ -1,7 +1,9 @@
-/* 
- * Written by Pierre Ouchene
- * Created on 28-04-2022
-*/
+/**
+ * @file macros.c
+ * @author Pierre Ouchene
+ * @date 2022-04-28
+ * 
+ */
 
 #include <stdio.h> // Preprocessor directive
 
